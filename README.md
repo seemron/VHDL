@@ -3,4 +3,6 @@ vhdl/assets/85100600/973fd2aa-33e3-4027-b30e-d660b3929055)
 lcm![Screenshot from 2024-02-10 15-56-17](https://github.com/seemron/vhdl/assets/85100600/421ad367-e528-4471-980b-6097a0132361)
 
 ![image](https://github.com/seemron/vhdl/assets/85100600/f2fcb9af-1268-48a8-9dc3-5302aebceed4)
+![image](https://github.com/seemron/vhdl/assets/85100600/79ba0e82-3cd9-434e-8ee7-1d63f45e58ab)
+
 
